@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Mikolajowicea.aternos.me",
+    "port": 53025,
     "version": "",
     "try-creative": false
   },
